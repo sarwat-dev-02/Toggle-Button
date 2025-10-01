@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+button{
+margin-left: 15px;
+margin-top: 15px; 
+font-family: 'Times New Roman', Times, serif;
+background-color: brown;
+color: aliceblue;
+}
+
+p{
+font-size: 40px;
+font-weight: 800;
+
+}
+
+#container{
+width: 100vw;
+height: 50vh;    
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.dark{
+    background-color: black;
+    color: white;
+}
+.light{
+    background-color: white;
+    color: black;
+}
